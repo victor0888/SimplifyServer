@@ -54,7 +54,7 @@
 		}
 	</style>
 	<?php
-	$publicKey = getenv('SIMPLIFY_API_PUBLIC_KEY');
+	$publicKey = getenv('sbpb_NTFhMjA1YmMtMmQ3Ni00MTc3LTlhMDctODAwNDliYjA5NTU2');
 	?>
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script type="text/javascript" src="//www.simplify.com/commerce/v1/simplify.js"></script>
